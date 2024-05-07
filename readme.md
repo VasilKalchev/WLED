@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This is a fork with custom builds for the boards:
+> - [PXL stick](https://github.com/VasilKalchev/PXLstick).
+
+---
+
+
 <p align="center">
   <img src="/images/wled_logo_akemi.png">
   <a href="https://github.com/Aircoookie/WLED/releases"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
